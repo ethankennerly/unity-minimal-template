@@ -1,2 +1,4 @@
-# unity-minimal-template
-Minimal template with Unity 6.
+# Unity Minimal Template
+Minimal packages and empty scene.
+
+Unity 6 [Version](ProjectSettings/ProjectVersion.txt)
